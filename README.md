@@ -24,7 +24,3 @@ This project visualizes the **stock prices** and **revenue trends** of companies
 1. Open notebook in **Google Colab**
 2. Run all cells
 3. Graphs appear (interactive + static)
-
----
-
-Let me know if you want to throw in a link to your Coursera or assignment submission too.
